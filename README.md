@@ -1,4 +1,6 @@
-# Design File Links
+# Website Design File Links
+
+![Home (1)](https://github.com/MLVolt-GitHub/Website/assets/85184371/08f2b71c-3af9-4107-baaa-5fda61c4082d)
 
 **Figma UI Design** - https://www.figma.com/file/307KIWcuXqya3QsXChTlQ7/MLVOLT-Web-design?type=design&node-id=0%3A1&mode=design&t=J4T5qeErR95j3OtP-1
 
